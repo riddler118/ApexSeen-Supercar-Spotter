@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /admin.html
 
 Sitemap: https://riddler118.github.io/ApexSeen-Supercar-Spotter/sitemap.xml
